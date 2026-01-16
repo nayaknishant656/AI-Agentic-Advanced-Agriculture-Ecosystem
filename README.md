@@ -1,3 +1,6 @@
+
+![AGENTIC-Agriculture.png](./AGENTIC-Agriculture.png)
+
 # Crop Prediction System with High-Yielding AI Agents & LLM Integration
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
