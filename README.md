@@ -1,14 +1,14 @@
 
 ![AGENTIC-Agriculture.png](./AGENTIC-Agriculture.png)
 
+Live Architected :- https://www.youtube.com/live/LopXjHx907s?si=Jtxo-_Z5TFQjf_SS
+
 # Crop Prediction System with High-Yielding AI Agents & LLM Integration
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/Docker-ready-blue)](https://www.docker.com/)
 
-
-https://drive.google.com/file/d/1aZzDVlN_3PKrml9m1AKG2KASLVZflRuV/view
 
 A modern, scalable architecture for **precision agriculture** that combines IoT field devices, real-time data streaming, Large Language Models (LLM), machine learning for crop/market prediction, interactive dashboards, autonomous AI agents, and hardware actuation (irrigation, spraying, etc.).
 
